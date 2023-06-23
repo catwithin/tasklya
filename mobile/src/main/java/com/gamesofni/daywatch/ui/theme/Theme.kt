@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.ui.theme
+package com.gamesofni.tasklya.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun DayWatchTheme(
+fun TasklyaTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

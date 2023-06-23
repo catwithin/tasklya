@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.DayWatch" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Tasklya" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.DayWatch" parent="Base.Theme.DayWatch" />
+    <style name="Theme.Tasklya" parent="Base.Theme.Tasklya" />
 </resources>

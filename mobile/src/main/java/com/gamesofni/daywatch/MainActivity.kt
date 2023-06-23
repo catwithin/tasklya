@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch
+package com.gamesofni.tasklya
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

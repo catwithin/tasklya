@@ -10,13 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.DayWatch"
+        android:theme="@style/Theme.Tasklya"
         tools:targetApi="31">
         <activity
             android:name=".DayOverviewActivity"
             android:exported="true"
             android:label="@string/title_activity_day_overview"
-            android:theme="@style/Theme.DayWatch">
+            android:theme="@style/Theme.Tasklya">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,10 +1,10 @@
-package com.gamesofni.daywatch.presentation.theme
+package com.gamesofni.tasklya.presentation.theme
 
 import androidx.compose.runtime.Composable
 import androidx.wear.compose.material.MaterialTheme
 
 @Composable
-fun DayWatchTheme(
+fun TasklyaTheme(
     content: @Composable () -> Unit
 ) {
     MaterialTheme(

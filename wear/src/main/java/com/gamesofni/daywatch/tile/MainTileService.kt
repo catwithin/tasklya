@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.tile
+package com.gamesofni.tasklya.tile
 
 import android.content.Context
 import androidx.compose.runtime.Composable

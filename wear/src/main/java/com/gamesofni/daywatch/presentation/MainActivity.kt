@@ -4,7 +4,7 @@
  * changes to the libraries and their usages.
  */
 
-package com.gamesofni.daywatch.presentation
+package com.gamesofni.tasklya.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -22,8 +22,8 @@ import androidx.compose.ui.tooling.preview.Devices
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
-import com.gamesofni.daywatch.R
-import com.gamesofni.daywatch.presentation.theme.DayWatchTheme
+import com.gamesofni.tasklya.presentation.theme.TasklyaTheme
+import com.gamesofni.tasklya.R
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun WearApp(greetingName: String) {
-    DayWatchTheme {
+    TasklyaTheme {
         /* If you have enough items in your list, use [ScalingLazyColumn] which is an optimized
          * version of LazyColumn for wear devices with some added features. For more information,
          * see d.android.com/wear/compose.

@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">DayWatch</string>
+    <string name="app_name">Tasklya</string>
     <string name="title_activity_day_overview">DayOverviewActivity</string>
 </resources>

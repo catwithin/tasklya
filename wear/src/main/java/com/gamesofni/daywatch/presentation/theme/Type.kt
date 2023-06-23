@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.presentation.theme
+package com.gamesofni.tasklya.presentation.theme
 
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily

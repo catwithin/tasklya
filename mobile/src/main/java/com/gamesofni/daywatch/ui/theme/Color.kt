@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.ui.theme
+package com.gamesofni.tasklya.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

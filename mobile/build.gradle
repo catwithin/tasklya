@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.gamesofni.daywatch'
+    namespace 'com.gamesofni.tasklya'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.gamesofni.daywatch"
+        applicationId "com.gamesofni.tasklya"
         minSdk 25
         targetSdk 33
         versionCode 1

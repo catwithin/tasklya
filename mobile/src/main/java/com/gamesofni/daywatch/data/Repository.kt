@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.data
+package com.gamesofni.tasklya.data
 
 class Repository {
 }

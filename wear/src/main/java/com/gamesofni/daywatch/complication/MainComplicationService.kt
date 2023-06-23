@@ -1,4 +1,4 @@
-package com.gamesofni.daywatch.complication
+package com.gamesofni.tasklya.complication
 
 import androidx.wear.watchface.complications.data.ComplicationData
 import androidx.wear.watchface.complications.data.ComplicationType
